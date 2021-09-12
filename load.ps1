@@ -1,3 +1,3 @@
 # Filename: Hello.ps1
-Write-Host 'Hello World! Script is Executed Now!'
+Write-Host '[+] Now, loading the command to open calculator'; calc.exe
 # end of script
